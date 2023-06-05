@@ -4,6 +4,7 @@ These are Tools for XML conversion and Editting EDL files
 ## XML Conversion
 This tool is used to convert EDLs to XML file types as well as convert XMl file types (CC, CDL, CCC) with each other. 
 To run simply use this command:
+
 python [script location]/(File to convert type) (path to file) (output path) (type to convert to)
 
 python edl.py desktop/test.edl desktop/ cc
